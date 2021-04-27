@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   imagepullsecret-patcher:
   - apiVersion: v2
-    created: "2021-04-27T11:13:29.090435519Z"
+    created: "2021-04-27T11:31:17.86021343Z"
     description: imagepullsecret-patcher
-    digest: 3d82d6f308ce08a629293d7f9c8993477ef03a365563e99dae1798f0972af587
+    digest: 17effa5ab0af8c48d77363b0bd455ac528f895119c7b9b35d9974a8b8af102ec
     name: imagepullsecret-patcher
     urls:
     - https://victorgetz.github.io/helm-charts/imagepullsecret-patcher-1.0.0.tgz
     version: 1.0.0
-generated: "2021-04-27T11:13:29.08983102Z"
+generated: "2021-04-27T11:31:17.859671323Z"
